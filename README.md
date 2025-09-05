@@ -104,9 +104,9 @@ Go to your repository page → you should now see:
 
 You always need to follow the Git 3-step process:
 
-git add .
-git commit -m "Improved homepage header design"
-git push origin main
+* git add .
+* git commit -m "Improved homepage header design"
+* git push origin main
 
 
 
