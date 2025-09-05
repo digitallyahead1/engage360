@@ -108,6 +108,8 @@ You always need to follow the Git 3-step process:
 * git commit -m "Improved homepage header design"
 * git push origin main
 
+Or Using shortcut
+* git add . && git commit -m "Your commit message" && git push origin main
 
 
 
