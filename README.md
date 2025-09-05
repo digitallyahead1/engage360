@@ -98,3 +98,12 @@ Go to your repository page → you should now see:
 ---
 
 ✅ That’s it! Your Engage360 repo is now cloned, structured, and ready for development.
+
+
+## Note: If changes are made to your files locally on your computer, they won’t automatically update on GitHub.
+
+You always need to follow the Git 3-step process:
+
+git add .
+git commit -m "Improved homepage header design"
+git push origin main
