@@ -107,3 +107,11 @@ You always need to follow the Git 3-step process:
 git add .
 git commit -m "Improved homepage header design"
 git push origin main
+
+
+
+
+## 👥 Authors
+
+- **Usman Bashir Sani** (Team Lead)  
+- **Abubakar Tasiu** (Developer)  
